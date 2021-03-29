@@ -10,4 +10,4 @@
 #### I'm a Front-End Developer working in São Paulo, Brazil.
 
 - 🏢 I'm currently working at **Everis**
-- ⚙️ I use daily: `,ts`, `.html`, `.css`, `Angular Framework` 
+- ⚙️ I use daily: `ts`, `.html`, `.css`, `Angular Framework` 
