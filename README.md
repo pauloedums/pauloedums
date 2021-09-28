@@ -9,16 +9,16 @@
 
 #### I'm a Front-End Developer working in São Paulo, Brazil.
 
-- 🏢 I'm currently working at **Accenture**
+- 🏢 I'm currently working at **Accenture**.
 - ⚙️ I use daily: `ts`, `.html`, `.css`, `Angular Framework`, `Unit Test` and `Integration Test`.
-👨‍🎓 - 🏢 I'm currently doying MBA in Full Stack Development
+- 👨‍🎓 I'm currently doing MBA in Full Stack Development.
 
 <a href="https://github.com/pauloedums"> 
 <div style="display: inline_block">
   <img align="center" alt="Java-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Quarkus-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
-  <img align="center" alt="React-Log" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Quarkus-Logo" height="30" src="https://quarkus.io/assets/images/quarkus_logo_horizontal_rgb_600px_reverse.png">
+  <img align="center" alt="Angular-Log" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
