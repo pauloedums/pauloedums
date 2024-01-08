@@ -1,8 +1,8 @@
 # Hello, I'm Paulo Marques
 ### I'm a Full Stack Developer working in São Paulo, Brazil.
 
-- 🏢 I'm currently working at **Accenture**.
-- ⚙️ I use daily: `ts`, `.html`, `.css`, `Angular Framework`, `Unit Test` and `Integration Test`.
+- 🏢 I'm currently working at **GFT Brasil**.
+- ⚙️ I use daily: `java`, `ts`, `.html`, `.css`, `Angular Framework`, `Unit Test` and `Integration Test`.
 - 👨‍🎓 MBA in Full Stack Development.
  
 <div style="display: inline_block">
